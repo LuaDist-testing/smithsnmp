@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "smithsnmp"
-version = "0.8-1"
+version = "0.8-2"
 -- LuaDist source
 source = {
-  tag = "0.8-1",
+  tag = "0.8-2",
   url = "git://github.com/LuaDist-testing/smithsnmp.git"
 }
 -- Original source
 -- source = {
---         url = "https://github.com/begeekmyfriend/smithsnmp/archive/v0.8.tar.gz",
---         dir = "smithsnmp-0.8"
+--         url = "https://github.com/begeekmyfriend/smithsnmp/archive/v0.8.1.tar.gz",
+--         dir = "smithsnmp-0.8.1"
 -- }
 description = {
         summary = "A lightweight SNMP agent with private MIB in Lua",
